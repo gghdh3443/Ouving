@@ -1,2 +1,2 @@
 # christoffer-oving
-Her øver jeg på forskejlleige kode språk
+Her øver jeg på forskjellige kode-språk
